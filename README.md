@@ -2,24 +2,33 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Sequential and Binary Search](#sequential-and-binary-search)
-   - Sequential Search
-   - Binary Search
-   - Comparison
-3. [Search by Elimination](#search-by-elimination)
-   - Concept
-   - Ternary Search Algorithm
-   - Applications
-4. [Binary Heap and Binary Search Tree](#binary-heap-and-binary-search-tree)
-   - Binary Heap
-   - Binary Search Tree (BST)
-   - Comparison
-5. [Exercises](#exercises)
-   - Search Exercises
-   - Elimination Exercises
-   - Heap and BST Exercises
-6. [Sample Exam](#sample-exam)
+- [Computer Olympiad Curriculum Book](#computer-olympiad-curriculum-book)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Sequential and Binary Search](#sequential-and-binary-search)
+    - [Sequential Search](#sequential-search)
+      - [Implementation:](#implementation)
+    - [Binary Search](#binary-search)
+      - [Implementation:](#implementation-1)
+    - [Comparison](#comparison)
+  - [Search by Elimination](#search-by-elimination)
+    - [Concept](#concept)
+    - [Ternary Search Algorithm](#ternary-search-algorithm)
+      - [Implementation:](#implementation-2)
+    - [Applications](#applications)
+  - [Binary Heap and Binary Search Tree](#binary-heap-and-binary-search-tree)
+    - [Binary Heap](#binary-heap)
+      - [Min-Heap Example:](#min-heap-example)
+    - [Binary Search Tree (BST)](#binary-search-tree-bst)
+      - [Basic Operations:](#basic-operations)
+    - [Comparison](#comparison-1)
+  - [Exercises](#exercises)
+    - [Search Exercises](#search-exercises)
+    - [Elimination Exercises](#elimination-exercises)
+    - [Heap and BST Exercises](#heap-and-bst-exercises)
+  - [Practical problems](#practical-problems)
+  - [Sequential and Binary Search Problems](#sequential-and-binary-search-problems)
+  - [Search by Elimination Problems](#search-by-elimination-problems)
 
 ---
 
@@ -151,12 +160,34 @@ Node* insert(Node* root, int key) {
 
 ---
 
-## Sample Exam
+## Practical problems
 
-1. Explain sequential vs binary search with code and complexity analysis.
-2. Implement ternary search for optimization problems.
-3. Show heap operations and their complexity.
-4. Solve a BST operation-based problem and analyze its complexity.
+## Sequential and Binary Search Problems
+
+1. [A. Vika and the Bridge](https://codeforces.com/problemset/problem/1848/B)
+2. [B. Dolce Vita](https://codeforces.com/problemset/problem/1671/C)
+3. [C. Fibonaccharsis](https://codeforces.com/problemset/problem/1853/B)
+4. [D. Chloe and the Sequence](https://codeforces.com/problemset/problem/743/B)
+5. [E. Two Cakes](https://codeforces.com/problemset/problem/911/B)
+6. [F. Planning The Expedition](https://codeforces.com/problemset/problem/1011/B)
+7. [G. NN and the Optical Illusion](https://codeforces.com/problemset/problem/1100/C)
+8. [H. Sanatorium](https://codeforces.com/problemset/problem/732/C)
+9. [I. Eugeny and Play List](https://codeforces.com/problemset/problem/302/B)
+10. [J. Megacity](https://codeforces.com/problemset/problem/424/B)
+
+## Search by Elimination Problems
+
+1. [A. Balanced Stone Heaps](https://codeforces.com/problemset/problem/1623/C)
+2. [B. Kuro and GCD and XOR and SUM](https://codeforces.com/problemset/problem/979/D)
+3. [C. NN country](https://codeforces.com/problemset/problem/983/E)
+4. [D. Sonya and Ice Cream](https://codeforces.com/problemset/problem/1004/E)
+5. [E. Split the Tree](https://codeforces.com/problemset/problem/1059/E)
+6. [F. Company](https://codeforces.com/problemset/problem/1062/E)
+7. [G. Construct a tree](https://codeforces.com/problemset/problem/1098/C)
+8. [H. Cookies](https://codeforces.com/problemset/problem/1099/F)
+9. [I. Legendary Tree](https://codeforces.com/problemset/problem/1101/D)
+10. [J. Tree Painting](https://codeforces.com/problemset/problem/1187/E)
+
 
 ---
 
